@@ -1,0 +1,18 @@
+dataset = [
+    {"question": "Apa itu Tuberkulosis?", "relevant_idx": 16},
+    {"question": "Bagaimana penularan TBC terjadi?", "relevant_idx": 26},
+    {"question": "Apa gejala TBC pada orang dewasa?", "relevant_idx": 18},
+    {"question": "Apa gejala TBC pada anak?", "relevant_idx": 19},
+    {"question": "Apa perbedaan TBC paru dan ekstra paru?", "relevant_idx": 21},
+    {"question": "Berapa lama pengobatan TBC sensitif obat?", "relevant_idx": 34},
+    {"question": "Berapa lama pengobatan TBC resistan obat?", "relevant_idx": 25},
+    {"question": "Apa pemeriksaan utama untuk diagnosis TBC?", "relevant_idx": 81},
+    {"question": "Berapa kali pengambilan dahak untuk pemeriksaan?", "relevant_idx": 82},
+    {"question": "Apa itu investigasi kontak?", "relevant_idx": 62},
+    {"question": "Apa tujuan investigasi kontak?", "relevant_idx": 64},
+    {"question": "Apa yang dimaksud kontak serumah?", "relevant_idx": 66},
+    {"question": "Apa yang dimaksud kontak erat?", "relevant_idx": 67},
+    {"question": "Apa itu Terapi Pencegahan TBC (TPT)?", "relevant_idx": [43,44,48,49]},
+    {"question": "Siapa saja sasaran pemberian TPT?", "relevant_idx": [45,46]},
+    {"question": "Apa saja paduan TPT?", "relevant_idx": [46,47,75]},
+]
