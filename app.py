@@ -19,7 +19,7 @@ class Query(BaseModel):
 # =========================
 
 print("Loading model...")
-model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
+model = SentenceTransformer("all-MiniLM-L6-v2")
 
 print("Loading FAISS index...")
 index = faiss.read_index("vector_store/tbc_index.faiss")
